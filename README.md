@@ -1,42 +1,137 @@
-# 👋 Bienvenid@ a mi perfil, ¡Gracias por visitar!.<br>
-Primeramente me presento, mi nombre es Wuilmer.<br>
+# 👋 Hola, soy Wuilmer Bolívar
 
-🔭 Soy un apasionado a la tecnología, especialmente al software libre, gran fan de proyecto linux y la filosofía Ubuntu, soy autodidacta por naturaleza, comprometido constantemente con la adquisición de nuevos conocimientos. 💬 <br>
+🎯 **ITSM Senior | Incident & Problem Management | Continuidad Operativa | Automatización**
 
-Tengo conomientos en tecnologías como: 🌱 
-<div style="display: inline_block" align="center">
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+Especialista en Gestión de Servicios TI con +10 años de experiencia en entornos corporativos y bancarios, donde la disponibilidad, resiliencia y continuidad del negocio son críticas.
+
+---
+
+## 🧠 Enfoque Profesional
+
+🔴 Gestión **end-to-end de incidentes críticos**, liderando la respuesta ante eventos de alto impacto (Major Incident Management).
+
+🧩 Especialización en **Problem Management**, análisis RCA y estrategias de prevención de recurrencias.
+
+⚙️ Coordinación de equipos multidisciplinarios bajo presión, asegurando cumplimiento de **SLA / KPI**.
+
+🛡️ Experiencia en **ciberseguridad aplicada a la operación** (hardening, análisis de eventos, mitigación de riesgos).
+
+💻 Enfoque diferencial: integración de **ITSM + desarrollo**, permitiendo:
+- Automatización de procesos operativos  
+- Eliminación de tareas manuales  
+- Creación de herramientas orientadas al negocio  
+
+---
+
+## 📊 Impacto
+
+- ⏱️ Reducción sostenida en tiempos de resolución de incidentes críticos  
+- 📉 Disminución del impacto operativo mediante RCA estructurado  
+- ⚙️ Automatización de procesos ITSM clave  
+- 📈 +25% en velocidad de diagnóstico  
+- 🕒 -120h/mes en tareas manuales (reporting y operación)  
+
+---
+
+## 🚀 Proyecto Destacado
+
+### 🔎 Portal Analítico ITSM (offline-first)
+
+Solución desarrollada para transformar datos operativos en información accionable:
+
+- Automatización de reportes, KPIs y comités operativos  
+- Arquitectura **serverless / offline-first** (alta privacidad)  
+- Procesamiento local sin dependencia de infraestructura externa  
+- Visualización clara para toma de decisiones  
+
+📁 Repositorio:  
+👉 https://github.com/wuilmerbolivar/portafolio
+
+---
+
+## 🛠️ Stack & Herramientas
+
+### ⚙️ ITSM & Operación
+`Incident Management` · `Problem Management` · `Major Incident` · `SLA` · `KPI` · `RCA` · `ITIL`
+
+---
+
+### 💻 Desarrollo & Automatización
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+
 </div>
 
+---
 
-## Mis redes sociales
+### 🛢️ Datos & Persistencia
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+
+</div>
+
+**Adicional:** IndexedDB (arquitecturas offline-first)
+
+---
+
+### 🐧 Infraestructura & Seguridad
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+
+</div>
+
+**Prácticas:**
+Hardening · Troubleshooting · Análisis de logs · Gestión de vulnerabilidades (nivel operativo)
+
+---
+
+## 🌐 Contacto
+
 <p align="center"> 
-<a href="https://wbolivarser.wordpress.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> 
 
-<a href="https://www.github.com/wbolivarser" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/wuilmerbolivar" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>
 
-<a href="https://www.linkedin.com/in/wbolivarser" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
-<a href="https://twitter.com/wbolivarser" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-## Mis estadísticas de GitHub
+---
+
+## 📈 GitHub Analytics
+
 <table><tbody>
-		<tr><td><a href="http://www.github.com/wbolivarser">
-<img src="https://github-readme-stats.vercel.app/api?username=wbolivarser&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" /></a><br><a href="http://www.github.com/wbolivarser">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wbolivarser&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></td>
-			<td><a href="https://github.com/wbolivarser">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbolivarser&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td></tr>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=wuilmerbolivar&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wuilmerbolivar&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuilmerbolivar&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" />
+
+</td>
+</tr>
 </tbody></table>
-<a href="http://www.github.com/wbolivarser">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=wbolivarser&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=wuilmerbolivar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" />
