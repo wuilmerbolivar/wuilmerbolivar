@@ -112,26 +112,3 @@ Hardening · Troubleshooting · Análisis de logs · Gestión de vulnerabilidade
 
 ---
 
-## 📈 GitHub Analytics
-
-<table><tbody>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=wuilmerbolivar&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wuilmerbolivar&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuilmerbolivar&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" />
-
-</td>
-</tr>
-</tbody></table>
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=wuilmerbolivar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" />
